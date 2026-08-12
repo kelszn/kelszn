@@ -1,31 +1,52 @@
-<h1 align="center">Hi 👋, I'm Mac-Donald Udoye</h1>
-<h3 align="center">A passionate Data Scientist in Germany.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kelszn&label=Profile%20views&color=0e75b6&style=flat" alt="kelszn" /> </p>
+# Mac-Donald Udoye
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kelszn" alt="kelszn" /></a> </p>
+### Business Intelligence & Data Engineering
 
-- 🌱 I’m currently learning **AI (computer visions and NLP)**
+Power BI · SQL · Python · Microsoft Fabric · Azure Databricks
 
-- 👯 I’m looking to collaborate on **NLP projects**
+[LinkedIn](https://www.linkedin.com/in/mac-donald-udoye-940684234/) · [Email](mailto:udoyechidubem@gmail.com)
 
-- 👨‍💻 All of my projects are available at [my_portfolio](my_portfolio)
+</div>
 
-- 💬 Ask me about **Data structures and Algorithms,ML,Analytics.**
+---
 
-- 📫 How to reach me **udoyechidubem@gmail.com**
+I build reliable analytics and data-engineering solutions that connect business requirements with implementation. My work and current portfolio focus on governed BI delivery, data validation, transformation, dimensional modelling and lakehouse pipeline design.
 
-- 📄 Know about my experiences [resume_](resume_)
+I am completing a B.Sc. in Digital Business & Data Science in Hamburg and am interested in working-student, internship and suitable full-time opportunities in international, English-speaking teams.
 
-- ⚡ Fun fact **i like basketball, soccer and working with a team.**
+## Current focus
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+- Building repeatable ingestion and transformation workflows with Python, SQL and PySpark
+- Working with Delta tables, medallion layers and data-quality checks in Azure Databricks
+- Designing reporting models and governed delivery workflows with Power BI and Microsoft Fabric
+- Turning technical work into clear, recruiter-readable project case studies
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## Applied toolkit
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kelszn&show_icons=true&locale=en&layout=compact" alt="kelszn" /></p>
+| Capability | Tools and methods |
+|---|---|
+| Business intelligence | Power BI, Power Query, DAX, Microsoft Fabric |
+| Data engineering | SQL, Python, PySpark, Azure Databricks, Delta Lake |
+| Data architecture | ETL/ELT, medallion architecture, dimensional modelling, star schemas |
+| Data quality | Validation queries, reconciliation, variance analysis, schema checks |
+| Delivery | Git, Jira, Confluence, Figma |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kelszn&show_icons=true&locale=en" alt="kelszn" /></p>
+## Selected work
+
+| Project | What it demonstrates | Status |
+|---|---|---|
+| [Data Engineering Pipeline Methods](https://github.com/kelszn/DE_pipeline_methods_with_SQL_SPARK) | Applied notebook lab exploring INSERT, COPY INTO and BULK INSERT ingestion approaches | Documentation cleanup in progress |
+| [SQL Data Warehouse](https://github.com/kelszn/DataWareHouse_withSQL) | Guided SQL Server warehouse implementation using medallion layers and a star schema | Attribution and case-study rewrite in progress |
+| [CV Matching Pipeline](https://github.com/kelszn/CV_Matching_Project) | Python/SQL data project being organised into a reproducible public case study | Work in progress |
+
+> Project pages distinguish implemented work from planned improvements. Guided work is attributed, and no employer-confidential data is published.
+
+## What I value
+
+I want a project to show more than a tool name. Good documentation should explain the problem, data flow, implementation decisions, validation approach, limitations and what I would improve next.
+
+## Languages
+
+English — professional working and academic language · Igbo — native · German — A2
