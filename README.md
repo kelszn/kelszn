@@ -4,9 +4,9 @@
 
 ### Analytics Engineering · Data Engineering · Business Intelligence
 
-I build decision-oriented data products that turn raw, changing data into reliable analytical systems.
+I build analytical systems that make changing data easier to trust, understand and use for decisions.
 
-SQL · Python · PySpark · Azure Databricks · Delta Lake · Power BI
+Data modelling · Reliable pipelines · Data quality and reconciliation · Analytical products
 
 [LinkedIn](https://www.linkedin.com/in/mac-donald-udoye-940684234/) · [Email](mailto:udoyechidubem@gmail.com)
 
@@ -16,22 +16,30 @@ SQL · Python · PySpark · Azure Databricks · Delta Lake · Power BI
 
 ## Current direction
 
-My work connects ingestion and data modelling with the analytical layer people actually use. The focus is not a long tool list; it is traceable data flow, explicit quality controls, explainable design decisions and useful outputs.
+My work sits between the source data and the decision someone needs to make. I think about what one row represents, how a record should be identified, what happens when a load runs twice, and how the final model can be checked against its source.
+
+That means I focus on:
+
+- defining grain, business keys and source contracts before building transformations;
+- preserving raw arrivals while creating clean current and historical views;
+- making replay, duplicates, late data and corrections explicit;
+- reconciling outputs so a dashboard or analytical product can be trusted; and
+- documenting the decisions and limits in plain language.
 
 ```mermaid
 flowchart LR
-    A["Sources<br/>APIs · files · operational data"] --> B["Build<br/>Python · SQL · PySpark"]
-    B --> C["Trust<br/>contracts · tests · reconciliation"]
-    C --> D["Model<br/>lakehouse · warehouse · semantic layer"]
-    D --> E["Decide<br/>Power BI · data products · APIs"]
+    A["Understand<br/>question · grain · source contract"] --> B["Preserve<br/>raw data · lineage · history"]
+    B --> C["Trust<br/>quality rules · replay · reconciliation"]
+    C --> D["Model<br/>facts · dimensions · analytical layers"]
+    D --> E["Use<br/>dashboards · data products · APIs"]
 ```
 
 ## Flagship roadmap
 
 | Project | Purpose | Current state |
 |---|---|---|
-| **CareerSignal** | European job and skills intelligence: historical vacancy snapshots, ESCO normalisation, demand analytics and a later evidence-backed matching service | Charter / Bronze planning — private |
-| **MarketTime** | Point-in-time market data: immutable observations, revisions, late arrivals and trustworthy as-of analytics | Next flagship — local reference implementation preserved |
+| **CareerSignal** | A Germany-first job and skills intelligence product built around historical vacancy snapshots, skill normalisation and evidence-based career decisions | Charter and Bronze design — private |
+| **MarketTime** | A point-in-time market data platform designed to preserve what was known when, including revisions and late arrivals | Next flagship — local foundation in progress |
 
 These projects are published only when their data-source terms, validation evidence, documentation and ownership walkthrough are complete.
 
@@ -39,8 +47,8 @@ These projects are published only when their data-source terms, validation evide
 
 | Repository | What it demonstrates | Classification |
 |---|---|---|
-| [Databricks Write Patterns](https://github.com/kelszn/databricks-write-patterns-lab) | Write-method behaviour, replay safety, duplicates and Delta-table validation | Technical learning lab |
-| [SQL Warehouse Course Lab](https://github.com/kelszn/sql-warehouse-course-lab) | Bronze/silver/gold warehouse structure, dimensional views and quality checks | Guided implementation |
+| [Databricks Write Patterns](https://github.com/kelszn/databricks-write-patterns-lab) | The difference between transport and write behaviour, including append, file-level idempotency, duplicate identity and Delta-table history | Technical learning lab |
+| [SQL Warehouse Course Lab](https://github.com/kelszn/sql-warehouse-course-lab) | Source integration, dimensional modelling, referential checks and analytics-ready warehouse views | Guided implementation |
 
 The earlier CV-matching prototype has been archived. Its useful ideas will be reconsidered only inside CareerSignal after the underlying analytical model is trusted.
 
