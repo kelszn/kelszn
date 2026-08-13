@@ -39,9 +39,10 @@ These projects are published only when their data-source terms, validation evide
 
 | Repository | What it demonstrates | Classification |
 |---|---|---|
-| [Databricks Pipeline Methods](https://github.com/kelszn/DE_pipeline_methods_with_SQL_SPARK) | Write-method behaviour, replay safety, duplicates and Delta-table validation | Technical learning lab |
-| [SQL Data Warehouse](https://github.com/kelszn/DataWareHouse_withSQL) | Bronze/silver/gold warehouse structure, dimensional views and quality checks | Guided implementation |
-| [CV Matching Prototype](https://github.com/kelszn/CV_Matching_Project) | Early PySpark parsing and skill-overlap exploration that will inform CareerSignal | Incubator / incomplete |
+| [Databricks Write Patterns](https://github.com/kelszn/databricks-write-patterns-lab) | Write-method behaviour, replay safety, duplicates and Delta-table validation | Technical learning lab |
+| [SQL Warehouse Course Lab](https://github.com/kelszn/sql-warehouse-course-lab) | Bronze/silver/gold warehouse structure, dimensional views and quality checks | Guided implementation |
+
+The earlier CV-matching prototype has been archived. Its useful ideas will be reconsidered only inside CareerSignal after the underlying analytical model is trusted.
 
 ## Evidence standard
 
