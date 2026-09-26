@@ -57,10 +57,10 @@ The earlier CV-matching prototype has been archived. Its useful ideas will be re
 Every featured project must make six things easy to inspect:
 
 1. the problem and intended user;
-2. the current implementation—not only the roadmap;
+2. the current implementation not only the roadmap;
 3. the data contract and architecture;
 4. validation, replay and reconciliation behaviour;
-5. decisions, limitations and attribution; and
-6. the exact boundary between personal work, guided learning and AI assistance.
+5. decisions, limitations and attribution; 
+
 
 > Employer data, confidential architecture, credentials and unsupported outcomes are never published here.
